@@ -55,11 +55,11 @@ build CMakeFiles/my_c_project.dir/main.cpp.obj: CXX_COMPILER__my_c_project_Debug
   OBJECT_DIR = CMakeFiles\my_c_project.dir
   OBJECT_FILE_DIR = CMakeFiles\my_c_project.dir
 
-build CMakeFiles/my_c_project.dir/src/01-数据类型.cpp.obj: CXX_COMPILER__my_c_project_Debug F$:/my-c-project/src/01-数据类型.cpp || cmake_object_order_depends_target_my_c_project
-  DEP_FILE = CMakeFiles\my_c_project.dir\src\01-数据类型.cpp.obj.d
+build CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj: CXX_COMPILER__my_c_project_Debug F$:/my-c-project/src/01-dataType/dataType.cpp || cmake_object_order_depends_target_my_c_project
+  DEP_FILE = CMakeFiles\my_c_project.dir\src\01-dataType\dataType.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\my_c_project.dir
-  OBJECT_FILE_DIR = CMakeFiles\my_c_project.dir\src
+  OBJECT_FILE_DIR = CMakeFiles\my_c_project.dir\src\01-dataType
 
 
 # =============================================================================
@@ -69,7 +69,7 @@ build CMakeFiles/my_c_project.dir/src/01-数据类型.cpp.obj: CXX_COMPILER__my_c_pr
 #############################################
 # Link the executable my_c_project.exe
 
-build my_c_project.exe: CXX_EXECUTABLE_LINKER__my_c_project_Debug CMakeFiles/my_c_project.dir/main.cpp.obj CMakeFiles/my_c_project.dir/src/01-数据类型.cpp.obj
+build my_c_project.exe: CXX_EXECUTABLE_LINKER__my_c_project_Debug CMakeFiles/my_c_project.dir/main.cpp.obj CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\my_c_project.dir

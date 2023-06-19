@@ -1,3 +1,22 @@
 # ninja log v5
-3	421	7082706798762997	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
-422	704	7082706801491988	my_c_project.exe	16625cd6a86b1dcb
+2	378	7088682606248288	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
+379	601	7088682608428558	my_c_project.exe	16625cd6a86b1dcb
+3	394	7088676165337209	CMakeFiles/my_c_project.dir/src/01-数据类型.cpp.obj	1a09a5d839ef923b
+1	232	7088699643801086	build.ninja	c2d7d03ea6eb6c3e
+1	272	7088699643801086	build.ninja	c2d7d03ea6eb6c3e
+13	398	7088699648157487	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
+2	403	7088699648207981	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+403	620	7088699650314539	my_c_project.exe	bc97d55eb7a686d2
+3	395	7088702594970424	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
+25	408	7088702595103819	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+408	644	7088702597410293	my_c_project.exe	bc97d55eb7a686d2
+3	391	7088703338942957	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
+26	397	7088703338997072	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+397	625	7088703341218954	my_c_project.exe	bc97d55eb7a686d2
+2	420	7088703784707973	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+421	659	7088703787060886	my_c_project.exe	bc97d55eb7a686d2
+3	394	7088704716701677	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+395	624	7088704718950961	my_c_project.exe	bc97d55eb7a686d2
+3	395	7088709119844433	CMakeFiles/my_c_project.dir/main.cpp.obj	ea63b86d37c7b048
+26	410	7088709119988479	CMakeFiles/my_c_project.dir/src/01-dataType/dataType.cpp.obj	d150033dd82ecfa
+410	637	7088709122197137	my_c_project.exe	bc97d55eb7a686d2
