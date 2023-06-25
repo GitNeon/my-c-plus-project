@@ -10,3 +10,5 @@
 void dataType();
 void printSize();
 void Cin();
+void operatorTest();
+void testPointer();
