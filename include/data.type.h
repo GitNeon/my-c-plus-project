@@ -10,6 +10,10 @@
 void dataType();
 void printSize();
 void Cin();
+
 void operatorTest();
+
 void testPointer();
 void pointerArray();
+
+void createStruct();

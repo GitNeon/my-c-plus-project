@@ -11,7 +11,10 @@ int main() {
 //    Cin();
 //    operatorTest();
 //    testPointer();
-    pointerArray();
+    // pointerArray();
+
+    // ½á¹¹Ìå
+    createStruct();
 
     system("pause");
     return 0;
