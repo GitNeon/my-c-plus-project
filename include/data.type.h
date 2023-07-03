@@ -18,3 +18,4 @@ void pointerArray();
 
 void createStruct();
 void createStructArray();
+void pointerToStruct();
