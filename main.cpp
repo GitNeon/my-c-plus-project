@@ -10,7 +10,8 @@ int main() {
 //    printSize();
 //    Cin();
 //    operatorTest();
-    testPointer();
+//    testPointer();
+    pointerArray();
 
     system("pause");
     return 0;

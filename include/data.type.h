@@ -12,3 +12,4 @@ void printSize();
 void Cin();
 void operatorTest();
 void testPointer();
+void pointerArray();
