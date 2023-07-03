@@ -14,7 +14,8 @@ int main() {
     // pointerArray();
 
     // ½á¹¹Ìå
-    createStruct();
+//    createStruct();
+    createStructArray();
 
     system("pause");
     return 0;
