@@ -13,4 +13,10 @@ void pointerArray() {
 	cout << "通过下标访问数组第一个元素：" << arr[0] << endl;
 	// 通过指针访问数组第一个元素
 	cout << "通过指针访问数组第一个元素：" << *p_arr << endl;
+
+	// 通过指针遍历数组
+	for (int i = 0; i < sizeof(arr) / sizeof(arr[0]); i++) {
+		cout << *p_arr << endl;
+		p_arr++;
+	}
 }
