@@ -10,9 +10,9 @@ struct Student {
 	// 姓名
 	string name;
 	// 年龄
-	int age;
+	int age{};
 	// 分数
-	int score;
+	int score{};
 };
 
 void createStruct() {
