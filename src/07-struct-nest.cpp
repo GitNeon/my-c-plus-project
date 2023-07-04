@@ -18,3 +18,15 @@ struct Teacher {
     int age; // 老师年龄
     Student student; // 一对一辅导学生
 };
+
+void testNestStruct() {
+    Teacher t1;
+    t1.id = 10002;
+    t1.name = "王老师";
+    t1.age = 32;
+    t1.student.name = "小明";
+    t1.student.age = 18;
+    t1.student.score = 85;
+
+    cout << "老师信息：" << "编号：" << t1.id << "---姓名：" << t1.name << "---年龄：" << t1.age << "---辅导的学生信息：" << t1.student.name << endl;
+}
