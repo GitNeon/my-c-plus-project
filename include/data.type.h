@@ -20,3 +20,11 @@ void createStruct();
 void createStructArray();
 void pointerToStruct();
 void testNestStruct();
+
+// new操作符的使用
+int* func();
+void testNew();
+void testNewArray();
+
+// 引用
+void testQuote();

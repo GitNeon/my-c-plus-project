@@ -17,7 +17,12 @@ int main() {
 //    createStruct();
 //    createStructArray();
 //    pointerToStruct();
-    testNestStruct();
+   // testNestStruct();
+
+    // testNew();
+    // testNewArray();
+
+    testQuote();
 
     system("pause");
     return 0;
