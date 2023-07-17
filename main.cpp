@@ -22,7 +22,13 @@ int main() {
     // testNew();
     // testNewArray();
 
-    testQuote();
+    // testQuote();
+
+    // testPkg();
+    // testCreateStudent();
+    // testCube();
+
+    testObjectConstructor();
 
     system("pause");
     return 0;

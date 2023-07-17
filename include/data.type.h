@@ -28,3 +28,11 @@ void testNewArray();
 
 // 引用
 void testQuote();
+
+// 封装
+void testPkg();
+void testCreateStudent();
+void testCube();
+
+// 对象的初始化和清理
+void testObjectConstructor();
