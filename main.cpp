@@ -28,7 +28,10 @@ int main() {
     // testCreateStudent();
     // testCube();
 
-    testObjectConstructor();
+    // testObjectConstructor();
+
+    // testClass();
+    testStatic();
 
     system("pause");
     return 0;

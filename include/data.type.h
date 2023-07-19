@@ -36,3 +36,7 @@ void testCube();
 
 // 对象的初始化和清理
 void testObjectConstructor();
+
+// class类的一些用法
+void testClass();
+void testStatic();
