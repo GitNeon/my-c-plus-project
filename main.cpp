@@ -31,7 +31,10 @@ int main() {
     // testObjectConstructor();
 
     // testClass();
-    testStatic();
+    // testStatic();
+
+    // testFriendFunc();
+    testFriendClass();
 
     system("pause");
     return 0;

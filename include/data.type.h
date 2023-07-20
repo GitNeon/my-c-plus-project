@@ -40,3 +40,7 @@ void testObjectConstructor();
 // class类的一些用法
 void testClass();
 void testStatic();
+
+// 友元
+void testFriendFunc();
+void testFriendClass();
