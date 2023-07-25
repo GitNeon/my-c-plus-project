@@ -3,4 +3,4 @@ project(my_c_project)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(my_c_project main.cpp main.cpp include/data.type.h src/01-dataType.cpp src/02-operatorsAll.cpp src/03-pointer.cpp "src/04-pointer-array.cpp" "src/05-struct-define.cpp" src/06-struct-pointer.cpp src/07-struct-nest.cpp "src/08-new.cpp" "src/09-quote.cpp" "src/10-pkg.cpp" "src/11-pkg-cube.cpp" "src/12-object-constructor.cpp" "src/13-class-init.cpp" "src/14-class-static.cpp" "src/15-friend-func.cpp" "src/16-friend-class.cpp")
+add_executable(my_c_project main.cpp main.cpp include/data.type.h src/01-dataType.cpp src/02-operatorsAll.cpp src/03-pointer.cpp "src/04-pointer-array.cpp" "src/05-struct-define.cpp" src/06-struct-pointer.cpp src/07-struct-nest.cpp "src/08-new.cpp" "src/09-quote.cpp" "src/10-pkg.cpp" "src/11-pkg-cube.cpp" "src/12-object-constructor.cpp" "src/13-class-init.cpp" "src/14-class-static.cpp" "src/15-friend-func.cpp" "src/16-friend-class.cpp" "src/17-base-extend.cpp")

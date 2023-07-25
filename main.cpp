@@ -34,7 +34,9 @@ int main() {
     // testStatic();
 
     // testFriendFunc();
-    testFriendClass();
+    // testFriendClass();
+
+    testExtend01();
 
     system("pause");
     return 0;

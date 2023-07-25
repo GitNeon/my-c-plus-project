@@ -44,3 +44,5 @@ void testStatic();
 // сят╙
 void testFriendFunc();
 void testFriendClass();
+
+void testExtend01();
