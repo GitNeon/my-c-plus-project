@@ -36,7 +36,15 @@ int main() {
     // testFriendFunc();
     // testFriendClass();
 
-    testExtend01();
+    // testExtend01();
+
+    // testOrder();
+
+    // testSame();
+
+    // testFileWrite();
+
+    testFileRead();
 
     system("pause");
     return 0;

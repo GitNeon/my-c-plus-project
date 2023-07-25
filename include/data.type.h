@@ -45,4 +45,11 @@ void testStatic();
 void testFriendFunc();
 void testFriendClass();
 
+// ¼Ì³Ð
 void testExtend01();
+void testOrder();
+void testSame();
+
+// ¶ÁÐ´ÎÄ¼þ
+void testFileWrite();
+void testFileRead();
