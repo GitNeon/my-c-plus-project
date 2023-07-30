@@ -53,3 +53,8 @@ void testSame();
 // ¶ÁÐ´ÎÄ¼þ
 void testFileWrite();
 void testFileRead();
+
+// Ä£°æ
+void testSwapValue();
+void testFunctionRule();
+void testTPerson();

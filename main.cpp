@@ -43,8 +43,12 @@ int main() {
     // testSame();
 
     // testFileWrite();
+    // testFileRead();
 
-    testFileRead();
+    // testSwapValue();
+    // testFunctionRule();
+
+    testTPerson();
 
     system("pause");
     return 0;
