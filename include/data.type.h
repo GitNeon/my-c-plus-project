@@ -58,3 +58,12 @@ void testFileRead();
 void testSwapValue();
 void testFunctionRule();
 void testTPerson();
+
+// STL
+void testString();
+void iteratorString();
+void testInsertAndDelString();
+
+void testVector();
+void testVectorSize();
+void testMyAdd();

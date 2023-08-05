@@ -48,7 +48,15 @@ int main() {
     // testSwapValue();
     // testFunctionRule();
 
-    testTPerson();
+    // testTPerson();
+
+    // testString();
+    // iteratorString();
+    // testInsertAndDelString();
+
+    // testVector();
+    // testVectorSize();
+    testMyAdd();
 
     system("pause");
     return 0;
