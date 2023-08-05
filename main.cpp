@@ -56,7 +56,11 @@ int main() {
 
     // testVector();
     // testVectorSize();
-    testMyAdd();
+    // testMyAdd();
+
+    // testAlgorithm();
+    // testTransForm();
+    testFind();
 
     system("pause");
     return 0;

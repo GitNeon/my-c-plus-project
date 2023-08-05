@@ -67,3 +67,7 @@ void testInsertAndDelString();
 void testVector();
 void testVectorSize();
 void testMyAdd();
+
+void testAlgorithm();
+void testTransForm();
+void testFind();
